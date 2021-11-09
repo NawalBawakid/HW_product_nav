@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW_product_recycleview</string>
+    <string name="prodact_name">Prodact name: %1$s </string>
+    <string name="price">Price: %1$s SR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
